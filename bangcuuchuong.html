@@ -5,14 +5,19 @@
     <title>Bảng cửu chương</title>
 </head>
 <body>
+<table border="1">
+
+
+</table>
 <script>
     let sout = "<table border = '1' width='300' cellspacing='5' cellpadding='5' >";
     for (let i = 2; i <= 9; i++) {
         sout = sout + "<tr>";
         for (let j = 1; j <= 9; j++) {
-            sout = sout + "<td>" + i + "x" + j +"=" +i*j +"</td>";
+            sout = sout + "<td>" + j + "x" + i + "=" + i * j + "</td>";
         }
         sout = sout + "</tr>"
+
     }
     sout = sout + "</table>";
     document.write(sout);

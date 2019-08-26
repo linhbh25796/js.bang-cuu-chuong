@@ -19,11 +19,7 @@
       <change afterPath="$PROJECT_DIR$/../BaiTapCTDK02/bai4.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../BaiTapCTDK02/bai5.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../BaiTapCTDK02/bai6.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/BangCuuChuong.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bangcuuchuong.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/f.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../CalculatorEasy2/.idea/CalculatorEasy2.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../CalculatorEasy2/.idea/misc.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../CalculatorEasy2/.idea/modules.xml" afterDir="false" />
@@ -60,6 +56,10 @@
       <change afterPath="$PROJECT_DIR$/../VongLapLongNhau/.idea/modules.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../VongLapLongNhau/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../VongLapLongNhau/vonglaplongnhau.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bangcuuchuong.html" beforeDir="false" afterPath="$PROJECT_DIR$/bangcuuchuong.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dsa.js" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../BienDuLieuToanTu/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../BienDuLieuToanTu/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Calculator/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Calculator/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Calculator/calculator.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Calculator/calculator.html" afterDir="false" />
@@ -74,13 +74,13 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="JavaScript File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1PwplUUYtVfkdW2Yf9m2zziObhg" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -125,7 +125,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1566795163491</updated>
-      <workItem from="1566795164651" duration="1566000" />
+      <workItem from="1566795164651" duration="3033000" />
     </task>
     <servers />
   </component>
